@@ -1,10 +1,12 @@
 # java_algorithms
 Couresera Princeton University Algorithms, Part I
 
-assignment 1: /EX1/*.java
- - HelloWord.java
+[assignment 1](https://coursera.cs.princeton.edu/algs4/assignments/hello/specification.php): Hello world
+path: /HelloWorld/*.java
+ - HelloWorld.java
  - HelloGoodbye.java
  - RandomWord.java
-[Ex1_specification](https://coursera.cs.princeton.edu/algs4/assignments/hello/specification.php)
 
-assignemnt 2: /EX2/*.java
+[assignemnt 2](https://coursera.cs.princeton.edu/algs4/assignments/percolation/specification.php): percolation algorithm
+path: /Percolation/*.java
+ - 
